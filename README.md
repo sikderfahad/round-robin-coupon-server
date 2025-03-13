@@ -30,7 +30,7 @@ This project is a **backend system** for generating, storing, and distributing u
 ### 2️⃣ Clone the repository
 
 ```sh
-git clone https://github.com/your-username/round-robin-coupon.git
+git clone https://github.com/sikderfahad/round-robin-coupon-server
 cd round-robin-coupon
 ```
 
